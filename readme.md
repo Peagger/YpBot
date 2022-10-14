@@ -5,6 +5,3 @@
 ## 开发日志
 
 #### day1
-
-- 前往`https://github.com/Mrs4s/go-cqhttp/releases`下载`go-cqhttp`框架
-- 选择`http`配置机器人
